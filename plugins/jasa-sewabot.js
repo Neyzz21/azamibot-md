@@ -3,7 +3,7 @@
 
 let handler = async (m, { conn, command }) => {
 	let ini_txt = `❤‍🩹 *[ Chat Dengan Creator ]*
-wa.me/6282337245566
+wa.me/6285875063235
 
 ╔╣ *PREMIUM USER*
 ║ • Infinity Limit
@@ -21,14 +21,14 @@ wa.me/6282337245566
 ╚══╣ *Harga :* Rp.20.000 / bulan
 
 ╔╣ *JADI BOT*
-║ • Jadi Bot Azami Always ON
+║ • Jadi Bot Always ON
 ║ • Custom Namabot, Owner, rules, dll.
 ║ • Bisa Req Tampilan atau Fitur
 ╚══╣ *Harga :* Rp.25.000 / bulan
 
 - Pembayaran via *OVO / Dana / GoPay*
   *( tidak ada opsi lain )*
-  ke nomor 082337245566
+  ke nomor 085875063235
 - Whatsapp Multi Device
 - Run via RDP (Always ON)
 - Request Fitur? *Chat Link Creator di atas.*`
